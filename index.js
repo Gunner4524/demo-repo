@@ -6,9 +6,9 @@ const { sig } = require("./utils/sig");
 
     await dc.initialize();
     // here is where you enter your email and password
-    await dc.login('email', 'password')
+    await dc.login('ryanorinda311@gmail.com', 'Evelynnkindathicc!69')
 
-    await dc.likeChannelProcess('server id', 'channel id', 1) // 1 = 1 minute
+    await dc.likeChannelProcess('469760397533118465', '756114115696525404', 1) // 1 = 1 minute
 
     debugger;
 
