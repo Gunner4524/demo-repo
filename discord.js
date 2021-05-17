@@ -7,7 +7,7 @@ const words = [
 ]
 let logCount = 0;
 
-const BASE_URL = 'https://discord.com';
+const BASE_URL = 'https://discord.com/channels/469760397533118465/756114115696525404';
 // change this & enter the channel url
 const discord = {
     browser: null,
